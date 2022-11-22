@@ -1,0 +1,3 @@
+C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\Definitions.UnrealHordeCoop.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

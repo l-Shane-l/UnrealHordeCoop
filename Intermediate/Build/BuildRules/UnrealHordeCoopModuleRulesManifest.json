@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\shane\\OneDrive\\Documents\\Unreal Projects\\UnrealHordeCoop\\Source\\UnrealHordeCoop\\UnrealHordeCoop.Build.cs",
+		"C:\\Users\\shane\\OneDrive\\Documents\\Unreal Projects\\UnrealHordeCoop\\Source\\UnrealHordeCoop.Target.cs",
+		"C:\\Users\\shane\\OneDrive\\Documents\\Unreal Projects\\UnrealHordeCoop\\Source\\UnrealHordeCoopEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

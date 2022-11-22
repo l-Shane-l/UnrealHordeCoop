@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealHordeCoop",
+			"Path": "C:\\Users\\shane\\OneDrive\\Documents\\Unreal Projects\\UnrealHordeCoop\\Source\\UnrealHordeCoop.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealHordeCoopEditor",
+			"Path": "C:\\Users\\shane\\OneDrive\\Documents\\Unreal Projects\\UnrealHordeCoop\\Source\\UnrealHordeCoopEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

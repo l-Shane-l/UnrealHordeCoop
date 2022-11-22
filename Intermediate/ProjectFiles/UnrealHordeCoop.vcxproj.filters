@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealHordeCoop.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6D5710D6-E850-443F-AC39-916771B1D61E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealHordeCoop.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealHordeCoopEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5D02C277-6FD8-4C06-B72C-153CFF3A78E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealHordeCoop">
+      <UniqueIdentifier>{3A4A9E61-9F29-4B4C-A332-BFD96B58C3A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoop.Build.cs">
+      <Filter>Source\UnrealHordeCoop</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoop.cpp">
+      <Filter>Source\UnrealHordeCoop</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoop.h">
+      <Filter>Source\UnrealHordeCoop</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoopGameModeBase.cpp">
+      <Filter>Source\UnrealHordeCoop</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoopGameModeBase.h">
+      <Filter>Source\UnrealHordeCoop</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
