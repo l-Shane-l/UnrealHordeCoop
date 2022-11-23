@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UnrealHordeCoopEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\SCharacter.cpp.obj"
 "C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\UnrealHordeCoop.cpp.obj"
 "C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\UnrealHordeCoopGameModeBase.cpp.obj"
+"C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\SCharacter.gen.cpp.obj"
 "C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\UnrealHordeCoop.init.gen.cpp.obj"
 "C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\UnrealHordeCoopGameModeBase.gen.cpp.obj"
 "C:\Users\shane\OneDrive\Documents\Unreal Projects\UnrealHordeCoop\Intermediate\Build\Win64\UE4Editor\Development\UnrealHordeCoop\Default.rc2.res"

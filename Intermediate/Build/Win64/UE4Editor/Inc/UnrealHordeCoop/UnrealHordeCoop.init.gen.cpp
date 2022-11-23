@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeUnrealHordeCoop_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x3FD39218,
-				0x498FEA47,
+				0x816B1FB8,
+				0xC112D62B,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

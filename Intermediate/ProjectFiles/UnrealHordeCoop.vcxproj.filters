@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealHordeCoop.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{6D5710D6-E850-443F-AC39-916771B1D61E}</UniqueIdentifier>
+      <UniqueIdentifier>{23284C8F-7844-4730-A891-AC9986C5A9F8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealHordeCoop.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\UnrealHordeCoopEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{5D02C277-6FD8-4C06-B72C-153CFF3A78E6}</UniqueIdentifier>
+      <UniqueIdentifier>{9AF33BD8-7E84-47FB-B96C-B89186D7C902}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealHordeCoop">
-      <UniqueIdentifier>{3A4A9E61-9F29-4B4C-A332-BFD96B58C3A6}</UniqueIdentifier>
+      <UniqueIdentifier>{CDF128EC-0374-4CC6-9A0E-6CCA5802CA85}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoop.Build.cs">
       <Filter>Source\UnrealHordeCoop</Filter>
@@ -40,6 +42,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\UnrealHordeCoop\UnrealHordeCoopGameModeBase.h">
       <Filter>Source\UnrealHordeCoop</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealHordeCoop\Private">
+      <UniqueIdentifier>{B4AC3D3D-5B24-4F65-9D07-2AD1F3E8D4B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealHordeCoop\Private\SCharacter.cpp">
+      <Filter>Source\UnrealHordeCoop\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\UnrealHordeCoop\Public">
+      <UniqueIdentifier>{23BAE71D-DE55-4D76-9093-4B950BE90414}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealHordeCoop\Public\SCharacter.h">
+      <Filter>Source\UnrealHordeCoop\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
