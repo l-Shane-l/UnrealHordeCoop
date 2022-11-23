@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UNREALHORDECOOP_SCharacter_generated_h
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_SPARSE_DATA
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_RPC_WRAPPERS
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_INCLASS_NO_PURE_DECLS \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_SPARSE_DATA
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_RPC_WRAPPERS
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_RPC_WRAPPERS_NO_PURE_DECLS
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesASCharacter(); \
 	friend struct Z_Construct_UClass_ASCharacter_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(ASCharacter)
 
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_INCLASS \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_INCLASS \
 private: \
 	static void StaticRegisterNativesASCharacter(); \
 	friend struct Z_Construct_UClass_ASCharacter_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(ASCharacter)
 
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_STANDARD_CONSTRUCTORS \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API ASCharacter(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(ASCharacter) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_ENHANCED_CONSTRUCTORS \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ASCharacter(ASCharacter&&); \
@@ -58,32 +58,32 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(ASCharacter)
 
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__CameraComp() { return STRUCT_OFFSET(ASCharacter, CameraComp); } \
 	FORCEINLINE static uint32 __PPO__SpringArmComp() { return STRUCT_OFFSET(ASCharacter, SpringArmComp); }
 
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_12_PROLOG
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_GENERATED_BODY_LEGACY \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_13_PROLOG
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_SPARSE_DATA \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_RPC_WRAPPERS \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_INCLASS \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_STANDARD_CONSTRUCTORS \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_SPARSE_DATA \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_RPC_WRAPPERS \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_INCLASS \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_GENERATED_BODY \
+#define UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_PRIVATE_PROPERTY_OFFSET \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_SPARSE_DATA \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_INCLASS_NO_PURE_DECLS \
-	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_15_ENHANCED_CONSTRUCTORS \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_PRIVATE_PROPERTY_OFFSET \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_SPARSE_DATA \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_INCLASS_NO_PURE_DECLS \
+	UnrealHordeCoop_Source_UnrealHordeCoop_Public_SCharacter_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
