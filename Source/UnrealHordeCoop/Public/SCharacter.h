@@ -4,7 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Camera/CameraComponent.h"
 #include "SCharacter.generated.h"
+
 
 UCLASS()
 class UNREALHORDECOOP_API ASCharacter : public ACharacter
@@ -20,6 +22,9 @@ protected:
 	virtual void BeginPlay() override;
 	void MoveForward(float Value);
 	void MoveRight(float Value);
+
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components")
+	UCameraComponent* CameraComp;
 
 public:	
 	// Called every frame
