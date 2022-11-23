@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeUnrealHordeCoop_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x36F14E9F,
+				0x18316952,
 				0xC112D62B,
 				METADATA_PARAMS(nullptr, 0)
 			};
